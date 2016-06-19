@@ -1,0 +1,14 @@
+layout_spectrum: 0.8995725931599736
+typography_spectrum: 0.35253111948259175
+color:
+  brandStrength: 0.2516765452455729
+  lightness: 0.5846364626195282
+  saturation: 0.8623905647546053
+  rhythmicContrast: 0.8899362208321691
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: davy
